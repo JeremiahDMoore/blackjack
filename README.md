@@ -1,4 +1,4 @@
-# Blackjack Web
+# Blackjack in the Browser
 
 ## Overview
 A web-based blackjack game to play in the browser. Built with React, TypeScript, Vite, and Tailwind CSS. Best used in Google Chrome.
